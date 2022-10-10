@@ -12,7 +12,7 @@ body {
         width: 25%;
         position: absolute; 
         height: 100%;
-        padding: 10px; /*es el margen dentro de div que engloba los elementos:imagenes, texto*/
+        padding: 15px; /*es el margen dentro de div que engloba los elementos:imagenes, texto*/
         left: 0px; /*margen del div izquierdo en la pantalla total*/
         background-color: rgb(214, 163, 212);
 }     
@@ -20,7 +20,7 @@ body {
         width: 25%;
         position: absolute;
         height: 100%;
-        padding: 10px; /*cambia margen solo dentro del div*/
+        padding: 15px; /*cambia margen solo dentro del div*/
         right: 0px; /*margen del div derecho en la pantalla*/
         background-color: rgb(167, 126, 175);
 }
